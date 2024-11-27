@@ -1,6 +1,6 @@
 {
 	"name": "prisma-field-sorter",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "Sort Prisma model fields alphabetically, keeping createdAt and updatedAt at the end.",
 	"main": "index.js",
 	"bin": {

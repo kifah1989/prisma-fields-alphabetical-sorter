@@ -6,7 +6,6 @@ The tool ensures:
 - **`id` fields are always at the top**.
 - **`createdAt` and `updatedAt` fields are always at the end**.
 - Other fields are sorted **alphabetically**.
-- Fields with special characters (e.g., `@`, `[]`) are placed at the very end.
 
 Additionally, the tool formats the schema using `npx prisma format` after
 sorting.
@@ -117,7 +116,7 @@ Contributions are welcome! To get started:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/prisma-field-sorter.git
+    git clone https://github.com/kifah1989/prisma-fields-alphabetical-sorter.git
     ```
 
 2.  Install dependencies:
