@@ -1,17 +1,17 @@
 {
-	"name": "prisma-field-sorter",
-	"version": "1.0.3",
-	"description": "Sort Prisma model fields alphabetically, keeping createdAt and updatedAt at the end.",
-	"main": "index.js",
-	"bin": {
-		"prisma-field-sorter": "index.js"
-	},
-	"keywords": [
-		"prisma",
-		"sort",
-		"fields",
-		"alphabetical"
-	],
-	"author": "Kifah Andary",
-	"license": "MIT"
+  "name": "prisma-field-sorter",
+  "version": "1.1.0",
+  "description": "Sort Prisma model fields alphabetically, keeping createdAt and updatedAt at the end.",
+  "main": "index.js",
+  "bin": {
+    "prisma-field-sorter": "index.js"
+  },
+  "keywords": [
+    "prisma",
+    "sort",
+    "fields",
+    "alphabetical"
+  ],
+  "author": "Kifah Andary",
+  "license": "MIT"
 }
